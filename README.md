@@ -1,1 +1,3 @@
-# Cynthiaosikha.github.io
+Hi, i am Osikha Cynthia and i am a data analyst with experience in transforming complex data into actionable insight. Skilled in statistical learning, data visualization and machine learning . I have a passion for using data to uncover meaningful insight . I am excited to bring my technical and analytical skills into this field as a  data analyst
+During my studies, i honed my ability to work with complex data and developed a keen eye for identifying issues and using data to propose solutions for decision making, which i believe will be a valueable assest to my role as a data analyst.
+In my free time, i enjoying exploring new data analysis tools and techings and also looking for opportunity to expand my knowledge and skills# Cynthiaosikha.github.io
